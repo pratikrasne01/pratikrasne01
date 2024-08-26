@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Rasne</h1>
-<h2 align="center">Advanced App Engineering Associate at Accenture and Machine Learning Enthusiast</h2> 
-<h3 align="center">BE in Mechanical Engineering(2023)</h3>
+<h2 align="center">Advanced App Engineering Analyst at Accenture and Machine Learning Enthusiast</h2> 
+<h3 align="center">BE'2023</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikrasne01&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik Rasne"/> </p>
 
